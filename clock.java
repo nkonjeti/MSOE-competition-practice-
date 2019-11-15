@@ -1,10 +1,5 @@
 
-/**
- * Write a description of class clock here.
- *
- * @author (your name)
- * @version (a version number or a date)
- */
+
 import java.util.Scanner;
 public class clock
 {
@@ -23,7 +18,7 @@ public class clock
            
         }
            
-       System.out.println("Minute hand is a (x,y) " + ": " + x +"," + y);    
+       System.out.println("Minute hand is at (x,y) " + ": " + x +"," + y);    
        
        
        
